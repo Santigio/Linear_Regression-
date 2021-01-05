@@ -1,6 +1,6 @@
 # Linear Regression
 
-# This project is designed to explain how the concept of Statistics can be applied in machine learning to make inferences or predictions. In the end, I aim at providing you with a clear and straightforward understanding of how one can use the concept of statistics and linear regression to make prediction. You can use this example to make predictions using linear regression. 
+This project is designed to explain how the concept of Statistics can be applied in machine learning to make inferences or predictions. In the end, I aim at providing you with a clear and straightforward understanding of how one can use the concept of statistics and linear regression to make prediction. You can use this example to make predictions using linear regression. 
 
 # Problem definition
 To start with, Brewery Rwanda, a business that makes and sells beer, wants an ideal model that separates beer from wine. So as data engineer, you have been asked to design a machine learning model that answers the question of whether a drink is a beer or wine. 
